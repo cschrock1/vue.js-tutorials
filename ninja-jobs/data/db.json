@@ -1,0 +1,22 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "company": "Tech Company",
+      "location": "New York"
+    },
+    {
+      "id": 2,
+      "title": "Data Analyst",
+      "company": "Data Inc.",
+      "location": "San Francisco"
+    },
+    {
+      "id": 3,
+      "title": "Product Manager",
+      "company": "Product Co.",
+      "location": "Chicago"
+    }
+  ]
+}
